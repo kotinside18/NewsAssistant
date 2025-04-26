@@ -10,11 +10,7 @@ from sentence_transformers import SentenceTransformer, util
 import shelve
 
 
-# Постоянные переменные
-api_id = 26723220
-api_hash = 'a4e7684b728360474036a70170cda2ca'
-bot_token = '6845584585:AAH-pGB73p83BYPVdgcqn1EOX8T2FxzTZsI'
-technical_channel = -1002143414315
+
 
 dict_lol_test = {'flag': True}
 dict_lol = {'flag': True, 'last_post_id': 0}
